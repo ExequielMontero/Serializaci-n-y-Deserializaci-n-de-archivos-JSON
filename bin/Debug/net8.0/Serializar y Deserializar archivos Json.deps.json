@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Serializar y Deserializar archivos Json/1.0.0": {
+        "runtime": {
+          "Serializar y Deserializar archivos Json.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Serializar y Deserializar archivos Json/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
