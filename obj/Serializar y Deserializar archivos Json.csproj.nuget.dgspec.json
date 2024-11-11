@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Serializar y Deserializar archivos Json\\Serializar y Deserializar archivos Json.csproj": {}
+    "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\\Serializar y Deserializar archivos Json.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Serializar y Deserializar archivos Json\\Serializar y Deserializar archivos Json.csproj": {
+    "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\\Serializar y Deserializar archivos Json.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Serializar y Deserializar archivos Json\\Serializar y Deserializar archivos Json.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\\Serializar y Deserializar archivos Json.csproj",
         "projectName": "Serializar y Deserializar archivos Json",
-        "projectPath": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Serializar y Deserializar archivos Json\\Serializar y Deserializar archivos Json.csproj",
+        "projectPath": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\\Serializar y Deserializar archivos Json.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Serializar y Deserializar archivos Json\\obj\\",
+        "outputPath": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

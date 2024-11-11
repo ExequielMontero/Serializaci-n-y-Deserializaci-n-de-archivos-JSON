@@ -1,1 +1,27 @@
-{"Nombre":"Exequiel","Apellido":"Montero","Email":"exequielalejandromontero@gmail.com","Edad":21}
+[
+  {
+    "Name": "Exequiel Montero",
+    "Address": {
+      "Street": "Irigoyen",
+      "Number": 421,
+      "City": {
+        "Name": "Parana",
+        "Country": {
+          "Name": "Parana",
+          "Code": "3100"
+        }
+      }
+    },
+    "Phones": [
+      {
+        "Name": "Personal",
+        "Number": "03434154153"
+      },
+      {
+        "Name": "Claro",
+        "Number": "0343534565"
+      }
+    ],
+    "DateOfBirth": "2003-04-23T00:00:00"
+  }
+]

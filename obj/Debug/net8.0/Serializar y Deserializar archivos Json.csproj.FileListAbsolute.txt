@@ -12,3 +12,21 @@ C:\Users\pc\source\repos\ConsoleApp1\Serializar y Deserializar archivos Json\obj
 C:\Users\pc\source\repos\ConsoleApp1\Serializar y Deserializar archivos Json\obj\Debug\net8.0\Serializar y Deserializar archivos Json.pdb
 C:\Users\pc\source\repos\ConsoleApp1\Serializar y Deserializar archivos Json\obj\Debug\net8.0\Serializar y Deserializar archivos Json.genruntimeconfig.cache
 C:\Users\pc\source\repos\ConsoleApp1\Serializar y Deserializar archivos Json\obj\Debug\net8.0\ref\Serializar y Deserializar archivos Json.dll
+C:\Users\pc\source\repos\ConsoleApp1\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\bin\Debug\net8.0\Serializar y Deserializar archivos Json.exe
+C:\Users\pc\source\repos\ConsoleApp1\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\bin\Debug\net8.0\Serializar y Deserializar archivos Json.deps.json
+C:\Users\pc\source\repos\ConsoleApp1\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\bin\Debug\net8.0\Serializar y Deserializar archivos Json.runtimeconfig.json
+C:\Users\pc\source\repos\ConsoleApp1\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\bin\Debug\net8.0\Serializar y Deserializar archivos Json.dll
+C:\Users\pc\source\repos\ConsoleApp1\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\bin\Debug\net8.0\Serializar y Deserializar archivos Json.pdb
+C:\Users\pc\source\repos\ConsoleApp1\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\pc\source\repos\ConsoleApp1\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\obj\Debug\net8.0\Serializar y Deserializar archivos Json.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\ConsoleApp1\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\obj\Debug\net8.0\Serializar y Deserializar archivos Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\ConsoleApp1\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\obj\Debug\net8.0\Serializar y Deserializar archivos Json.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\ConsoleApp1\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\obj\Debug\net8.0\Serializar y Deserializar archivos Json.AssemblyInfo.cs
+C:\Users\pc\source\repos\ConsoleApp1\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\obj\Debug\net8.0\Serializar y Deserializar archivos Json.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ConsoleApp1\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\obj\Debug\net8.0\Serializar y Deserializar archivos Json.sourcelink.json
+C:\Users\pc\source\repos\ConsoleApp1\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\obj\Debug\net8.0\Serializ.5DF35623.Up2Date
+C:\Users\pc\source\repos\ConsoleApp1\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\obj\Debug\net8.0\Serializar y Deserializar archivos Json.dll
+C:\Users\pc\source\repos\ConsoleApp1\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\obj\Debug\net8.0\refint\Serializar y Deserializar archivos Json.dll
+C:\Users\pc\source\repos\ConsoleApp1\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\obj\Debug\net8.0\Serializar y Deserializar archivos Json.pdb
+C:\Users\pc\source\repos\ConsoleApp1\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\obj\Debug\net8.0\Serializar y Deserializar archivos Json.genruntimeconfig.cache
+C:\Users\pc\source\repos\ConsoleApp1\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\obj\Debug\net8.0\ref\Serializar y Deserializar archivos Json.dll

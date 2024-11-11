@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Serializar y Deserializar archivos Json")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab3c1ced34bf4c299ef59b5fdda39a47780df454")]
 [assembly: System.Reflection.AssemblyProductAttribute("Serializar y Deserializar archivos Json")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Serializar y Deserializar archivos Json")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

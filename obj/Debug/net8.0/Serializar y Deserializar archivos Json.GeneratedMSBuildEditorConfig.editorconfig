@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Serializar_y_Deserializar_archivos_Json
-build_property.ProjectDir = C:\Users\pc\source\repos\ConsoleApp1\Serializar y Deserializar archivos Json\
+build_property.ProjectDir = C:\Users\pc\source\repos\ConsoleApp1\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

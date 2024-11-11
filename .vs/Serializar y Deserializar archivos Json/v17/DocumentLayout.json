@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00EDFDC9-9109-4B74-9A5A-4870BAAC62AE}|Serializar y Deserializar archivos Json.csproj|c:\\users\\pc\\source\\repos\\consoleapp1\\serializaci-n-y-deserializaci-n-de-archivos-json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EDFDC9-9109-4B74-9A5A-4870BAAC62AE}|Serializar y Deserializar archivos Json.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EDFDC9-9109-4B74-9A5A-4870BAAC62AE}|Serializar y Deserializar archivos Json.csproj|c:\\users\\pc\\source\\repos\\consoleapp1\\serializaci-n-y-deserializaci-n-de-archivos-json\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EDFDC9-9109-4B74-9A5A-4870BAAC62AE}|Serializar y Deserializar archivos Json.csproj|solutionrelative:models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EDFDC9-9109-4B74-9A5A-4870BAAC62AE}|Serializar y Deserializar archivos Json.csproj|c:\\users\\pc\\source\\repos\\consoleapp1\\serializaci-n-y-deserializaci-n-de-archivos-json\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EDFDC9-9109-4B74-9A5A-4870BAAC62AE}|Serializar y Deserializar archivos Json.csproj|solutionrelative:models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EDFDC9-9109-4B74-9A5A-4870BAAC62AE}|Serializar y Deserializar archivos Json.csproj|c:\\users\\pc\\source\\repos\\consoleapp1\\serializaci-n-y-deserializaci-n-de-archivos-json\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EDFDC9-9109-4B74-9A5A-4870BAAC62AE}|Serializar y Deserializar archivos Json.csproj|solutionrelative:models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EDFDC9-9109-4B74-9A5A-4870BAAC62AE}|Serializar y Deserializar archivos Json.csproj|c:\\users\\pc\\source\\repos\\consoleapp1\\serializaci-n-y-deserializaci-n-de-archivos-json\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EDFDC9-9109-4B74-9A5A-4870BAAC62AE}|Serializar y Deserializar archivos Json.csproj|solutionrelative:models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EDFDC9-9109-4B74-9A5A-4870BAAC62AE}|Serializar y Deserializar archivos Json.csproj|c:\\users\\pc\\source\\repos\\consoleapp1\\serializaci-n-y-deserializaci-n-de-archivos-json\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EDFDC9-9109-4B74-9A5A-4870BAAC62AE}|Serializar y Deserializar archivos Json.csproj|solutionrelative:models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\\Models\\Persona.cs",
+              "RelativeToolTip": "Models\\Persona.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:51:58.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\\Models\\Phone.cs",
+              "RelativeDocumentMoniker": "Models\\Phone.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\\Models\\Phone.cs",
+              "RelativeToolTip": "Models\\Phone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:47:37.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "Models\\Country.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\\Models\\Country.cs",
+              "RelativeToolTip": "Models\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:47:27.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\\Models\\City.cs",
+              "RelativeDocumentMoniker": "Models\\City.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\\Models\\City.cs",
+              "RelativeToolTip": "Models\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:47:15.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "Models\\Address.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\\Models\\Address.cs",
+              "RelativeToolTip": "Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:46:56.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Serializaci-n-y-Deserializaci-n-de-archivos-JSON\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:41:11.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
